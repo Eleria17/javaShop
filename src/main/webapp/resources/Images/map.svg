@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"  x="0px" y="0px"
+	  viewBox="0 0 914 394" preserveAspectRatio="xMinYMin meet" xml:space="preserve">
+	  <filter id="dropshadow" height="130%">
+  <feGaussianBlur in="SourceAlpha" stdDeviation="3"/> <!-- stdDeviation is how much to blur -->
+  <feOffset dx="2" dy="2" result="offsetblur"/> <!-- how much to offset -->
+  <feMerge> 
+    <feMergeNode/> <!-- this contains the offset blurred image -->
+    <feMergeNode in="SourceGraphic"/> <!-- this contains the element that the filter is applied to -->
+  </feMerge>
+</filter>
+<polygon id="blanc" fill="#ffffff" fill-opacity="0.7" points="453.223,82.951  490.056,389.049 1200,381.637 1200,82.951 "/>
+<foreignObject x="620" y="100"  width="230" height="250"  font-family="Arial" font-size="12" fill="red" style="/*height: 100px; max-height: 100px;*/overflow-y: scroll;text-align:right;">
+<textArea id="article" xmlns="http://www.w3.org/1999/xhtml" ></textArea>
+</foreignObject>
+<a xlink:href="../../zone?id=1" target="_parent">
+<polygon id="Esnandes_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(1)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#429DFF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="428.52,105.633 
+	428.968,94.404 434.806,95.302 450.079,94.854 450.525,87.667 453.223,82.951 466.473,93.056 473.211,107.878 468.467,105.238 
+	461.084,121.354 448.396,117.155 446.479,106.325 "><title>Esnandes</title></polygon></a>
+	<a xlink:href="../../zone?id=11" target="_parent">
+<polygon id="St-Xandre_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(11)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#68B1FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	434.18,158.558 423.932,142.382 455.658,136.267 460.686,121.222 475.906,137.523 483.99,130.113 490.728,131.459 498.813,128.764 
+	504.876,144.934 465.621,154.627 458.883,168.664 "><title>Saint Xandre</title></polygon></a>
+	<a xlink:href="../../zone?id=12" target="_parent">
+<polygon id="Lagord_4_" fill="#A4D0FF"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(12)" onmouseout="evt.target.setAttribute('opacity','1)');"  stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="398.248,191.683 
+	392.634,179.332 394.879,172.594 405.547,161.926 434.18,158.558 424.074,182.7 "/></a>
+	<a xlink:href="../../zone?id=13" target="_parent">	
+<polygon id="Puilboreau_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(13)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#B8E0F0" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	439.795,199.542 424.074,182.7 434.18,158.558 458.883,168.664 457.762,192.244 "/></a>
+	<a xlink:href="../../zone?id=14" target="_parent">
+<polygon id="Dompierre-sur-Mer_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(14)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#A4D0FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	457.762,192.244 458.883,168.664 465.621,154.627 504.876,144.934 498.813,164.472 500.834,176.6 512.287,189.399 508.918,198.833 
+	513.637,204.223 465.621,202.912 "><title>Dompierre</title></polygon></a>
+	<a xlink:href="../../zone?id=9" target="_parent">
+<polygon id="Périgny_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(9)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#429DFF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	438.174,227.129 439.795,199.542 457.762,192.244 465.621,202.912 513.637,204.223 498.813,212.98 475.906,217.585 473.211,229.825 
+	"><title>Perigny</title></polygon></a>
+	<a xlink:href="../../zone?id=15" target="_parent">
+<polygon id="Aytré_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(15)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#B8E0F0" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="433.46,246.667 
+	438.174,227.129 473.211,229.825 470.516,244.648 461.754,251.384 456.367,252.731 455.693,259.469 436.605,263.738 "><title>Aytré</title></polygon></a>
+	<a xlink:href="../../zone?id=10" target="_parent">
+<polygon id="Sainte-Soulle_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(10)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#B8E0F0" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	504.876,144.934 530.479,138.197 528.286,154.615 550.84,175.639 567.659,197.429 539.789,202.328 532.572,201.789 524.979,195.768 
+	508.918,198.833 512.455,189.371 500.834,176.6 498.813,164.472 "><title>Sainte Soulle</title></polygon></a>
+	<a xlink:href="../../zone?id=16" target="_parent">
+<polygon id="Vérines_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(16)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#429DFF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	530.479,138.197 528.286,154.615 550.84,175.639 567.659,197.429 591.743,200.868 599.771,199.722 597.178,191.421 588.43,185.814 
+	589.767,180.642 568.882,163.8 560.797,146.956 550.691,137.523 "><title>Verines</title></polygon></a>
+	<a xlink:href="../../zone?id=17" target="_parent">
+<polygon id="Bourgneuf_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(17)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#68B1FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	509.053,206.931 513.637,204.223 508.918,198.833 524.979,195.768 532.572,201.789 529.322,212.789 "><title>Bourgneuf</title></polygon></a>
+	<a xlink:href="../../zone?id=18" target="_parent">
+<polygon id="Montroy_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(18)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#429DFF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="532.572,201.789 
+	539.789,202.328 531.601,237.387 523.038,237.027 506.568,208.397 509.053,206.931 529.467,212.308 "><title>Montroy</title></polygon></a>
+	<a xlink:href="../../zone?id=19" target="_parent">
+<polygon id="Saint-Médard-d_x27_Aunis_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(19)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#A4D0FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	531.601,237.387 539.789,202.328 567.659,197.429 591.743,200.868 596.235,214.23 596.888,222.401 535.167,237.741 "><title>Saint Médard</title></polygon></a>
+	<a xlink:href="../../zone?id=20" target="_parent">
+<polygon id="Saint-Christophe_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(20)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#B8E0F0" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	591.743,200.868 599.771,199.722 611.33,212.308 608.63,226.456 613.347,239.257 605.938,248.016 592.462,249.364 592.312,243.972 
+	585.052,243.972 582.356,250.036 562.816,252.731 533.74,242.736 531.601,237.387 535.253,237.741 596.78,222.355 596.176,213.482 
+	"><title>Saint Christophe</title></polygon></a>
+	<a xlink:href="../../zone?id=21" target="_parent">
+<polygon id="La_Jarrie_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(21)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#68B1FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	562.816,252.731 550.018,264.184 542.66,266.999 523.394,264.145 497.706,252.37 498.389,238.864 523.038,237.027 531.601,237.387 
+	533.828,242.848 "><title>La Jarrie</title></polygon></a>
+	<a xlink:href="../../zone?id=22" target="_parent">
+<polygon id="Clavette_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(22)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#C3E0FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	504.631,209.543 506.568,208.397 523.038,237.027 498.389,238.864 489.5,239.526 489.144,227.039 503.2,221.018 "><title>Clavette</title></polygon></a>
+	<a xlink:href="../../zone?id=23" target="_parent">
+<polygon id="Saint-Rogatien_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(23)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#A4D0FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	498.813,212.98 504.631,209.543 503.2,221.018 489.144,227.039 489.5,239.526 470.516,244.648 475.906,217.697 "><title>Saint Rogatien</title></polygon></a>
+	<a xlink:href="../../zone?id=24" target="_parent">
+<polygon id="La_Jarne_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(24)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#429DFF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	455.693,259.469 456.367,252.731 461.754,251.384 470.516,244.648 489.5,239.526 498.389,238.864 497.706,252.37 489.5,263.788 
+	463.779,266.879 462.221,260.121 "><title>La Jarne</title></polygon></a>
+	<a xlink:href="../../zone?id=25" target="_parent">
+<polygon id="Salles-Sur-Mer_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(25)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#B8E0F0" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	463.779,266.879 489.5,263.788 497.706,252.37 523.394,264.145 525.089,279.682 512.287,287.768 500.161,289.787 470.516,303.934 
+	465.127,288.439 473.008,285.813 473.895,277.658 468.495,275.638 "><title>Salles Sur Mer</title></polygon></a>
+	<a xlink:href="../../zone?id=26" target="_parent">
+<polygon id="Croix-Chapeau_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(26)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#429DFF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	523.394,264.145 542.66,266.999 550.018,264.184 556.079,274.965 551.364,281.029 546.648,291.135 535.868,292.482 525.089,279.682 
+	"><title>Croix Chapeau</title></polygon></a>
+	<a xlink:href="../../zone?id=27" target="_parent">
+<polygon id="Angoulins_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(27)" onmouseout="evt.target.setAttribute('opacity','1)');" fill="#A4D0FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	422.681,265.083 436.605,263.738 455.693,259.469 462.221,260.121 463.779,266.879 468.495,275.638 473.895,277.658 
+	473.008,285.813 465.127,288.439 453.223,286.193 448.014,279.682 442.443,275.862 438.401,278.108 431.214,276.761 
+	427.576,271.482 423.131,272.27 "><title>Angoulins</title></polygon></a>
+	<a xlink:href="../../zone?id=28" target="_parent">
+<polygon id="Châtellaillon-Plage_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(28)" onmouseout="evt.target.setAttribute('opacity','1)');" fill="#429DFF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	453.223,286.193 465.127,288.439 470.516,303.934 490.728,321.453 488.032,328.191 477.253,328.865 470.066,337.621 
+	463.555,336.049 463.125,329.613 459.063,325.721 457.297,303.221 "><title>Châtellaillon</title></polygon></a>
+	<a xlink:href="../../zone?id=29" target="_parent">
+<polygon id="Saint-Vivien_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(29)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#A4D0FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	470.516,303.709 500.161,289.563 513.637,302.365 514.983,309.775 511.613,327.293 502.182,323.248 490.728,321.229 "><title>Saint Vivien</title></polygon></a>
+	<a xlink:href="../../zone?id=30" target="_parent">
+<polygon id="Thairé_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(30)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#68B1FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="500.161,289.787 
+	512.287,287.768 525.089,279.682 535.868,292.482 546.648,291.135 557.697,301.725 547.591,314.637 553.767,329.797 
+	545.908,334.289 537.89,336.947 525.762,339.643 519.697,333.578 511.613,327.516 514.983,310.08 513.75,303.221 "><title>Thairé</title></polygon></a>
+	<a xlink:href="../../zone?id=31" target="_parent">
+<polygon id="Yves_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(31)" onmouseout="evt.target.setAttribute('opacity','1)');"  fill="#B8E0F0" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="470.066,337.621 
+	477.253,328.865 488.032,328.191 490.728,321.453 502.182,323.475 511.613,327.516 519.697,333.578 525.762,339.643 537.89,336.947 
+	537.89,351.771 530.479,358.508 535.868,365.246 533.848,374.678 514.467,374.15 504.548,381.637 490.056,389.049 486.629,383.486 
+	484.664,367.939 487.359,365.246 486.012,356.711 482.418,343.686 "><title>Yves</title></polygon></a>
+		<a xlink:href="../../zone?id=3" target="_parent">
+<polygon onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(3);" onmouseout="evt.target.setAttribute('opacity','1)');"  id="La_rochelle_4_" fill="#68B1FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	372.375,176.151 392.634,179.332 398.225,191.967 423.932,183.054 439.795,199.542 438.174,227.129 433.46,246.667 419.085,243.188 
+	414.146,234.989 406.512,233.193 398.938,230.516 407.408,226.456 408.757,219.269 415.482,212.975 408.757,212.083 399.324,213.88 
+	386.748,212.98 385.85,217.023 372.824,219.269 361.596,210.734 361.596,206.243 356.654,204.897 358.449,202.651 358.9,199.057 
+	363.852,192.879 363.842,177.048 367.884,174.354 "><title>La Rochelle</title></polygon>
+	</a>
+	<a xlink:href="../../zone?id=32" target="_parent">
+<polygon  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(32)" onmouseout="evt.target.setAttribute('opacity','1)');"  id="L_x27_Houmeau_4_" fill="#C3E0FF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	392.634,179.332 372.375,176.151 376.107,170.759 380.012,162.676 378.214,155.04 375.07,148.751 395.441,151.82 405.547,161.926 
+	394.879,172.594 "><title>L'Houmeau</title></polygon></a>
+	<a xlink:href="../../zone?id=33" target="_parent">
+<polygon  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(33)" onmouseout="evt.target.setAttribute('opacity','1)');"  id="Nieul-sur-Mer_4_" fill="#429DFF" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	405.547,161.926 395.441,151.82 375.07,148.751 379.562,142.015 388.545,136.624 394.382,130.336 402.917,130.336 423.932,142.382 
+	434.18,158.558 "><title>Nieul Sur Mer</title></polygon></a>
+	<a xlink:href="../../zone?id=34" target="_parent">
+<polygon id="Marsilly_4_"  onmouseover="evt.target.setAttribute('opacity', '0.5');top.afficheZone(34)" onmouseout="evt.target.setAttribute('opacity','1)');" fill="#B8E0F0" stroke="#F9F9F9" stroke-linecap="round" stroke-linejoin="round" points="
+	423.932,142.382 402.917,130.336 415.943,115.065 420.883,113.718 428.52,105.633 446.484,106.259 448.396,117.155 460.686,121.222 
+	455.658,136.267 "><title>Marsilly</title></polygon></a>
+
+</svg>

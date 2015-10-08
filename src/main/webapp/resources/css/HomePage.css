@@ -1,0 +1,165 @@
+body {
+	background: url(../Images/background.jpg) no-repeat center center fixed; /* -homepage */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#menuHome {
+  position: absolute;
+  top: 0%;
+  left: 0;
+  width: 15%;
+  height: auto;padding-top:5%;background-color:rgba(151,179,211,0.8);
+  z-index: 0;
+}
+
+#menuHome ul li {
+  width: 100%;
+}
+
+body {
+    font-size: 100%;
+}
+a {
+    text-decoration: none;
+}
+ul, 
+ul ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#flecheMenu {
+	background: url(../Images/fleche_menu_bas.png) no-repeat top left ;  float:right;;
+  width:50%; height:20%;min-height:40px;
+	
+}
+#wrapper {  
+    width: 80%;
+    margin: 0px; margin-right:0;margin-top:30%;
+    font-size: 1em;  text-align: right; 
+}
+#carte {
+background: url(../Images/map.png) no-repeat top left ;  
+  width:50%; height:50%;top:25%;left:35%;position:absolute;
+    -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  border:none;border-image:none;-webkit-box-shadow:none;
+}
+#logo {
+background: url(../Images/logo.png) no-repeat top left ;  
+  width:18%; height:18%;top:0;left:0;position:absolute;
+    -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain; z-index: 1;
+}
+.menu {
+    width: auto;
+    height: auto;
+
+}
+.menu > li > a {
+
+    width: 100%;
+    height: 2.75em;
+    line-height: 2.75em;
+    text-indent: 2.75em;
+    display: block;
+    position: relative;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    color: #fff;
+    text-shadow: 0px 1px 0px rgba(0,0,0,.5);border-radius: 0 0 0 18px;margin-top:-12px;padding-top:5px;
+}
+
+ 
+.menu > li > a {
+    height: 2.75em;    color:black; font-size:x-large;    
+    line-height: 2.75em;  
+    text-indent: 2.75em;  
+}
+
+.menu ul li a {
+    width: 100%;
+    height: 2.75em;
+    line-height: 2.75em;
+    text-indent: 2.75em;
+    display: block;
+    position: relative;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.923em;
+    font-weight: 400;
+    color: #878d95;margin-top:-10px;color:white;padding-top:10px;
+}
+.menu ul li:last-child a {
+}
+.menu > li > a:hover, 
+.menu > li > a.active {
+}
+.menu > li > a.active {
+}
+.item1 > a  , .subitem1{
+/*background-color: #69aeda;*/z-index:4;
+}
+.arrondi
+{
+border-radius: 20% 0 0 0;
+}
+.item2 > a  ,.subitem2{
+/*background-color: #4698cd;*/z-index:3;
+}
+.item3  > a  ,.subitem3{
+/*background-color: #2d8ac4;*/z-index:2;
+}
+.menu > li > ul li a:before {
+    font-size: 8px;
+    color: #bcbcbf;
+    position: absolute;
+    width: 1em;
+    height: 1em;
+    top: 0;
+    left: -2.7em;
+}
+ 
+.menu > li > ul li:hover a,
+.menu > li > ul li:hover a span,
+.menu > li > ul li:hover a:before {
+    color: #32373D;
+}
+
+.menu > li > a:before {
+    content: '';
+   /* background-image: url(../Images/sprite.png);*/
+    background-repeat: no-repeat;
+    font-size: 36px;
+    height: 1em;
+    width: 1em;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    margin: -.5em 0 0 0;
+}
+.item1 , .item2 ,.item3 ,.item4 
+{
+	color:black;
+	
+}
+.item1 > a:before {
+    background-position: 0 0;
+}
+.item2 > a:before {
+    background-position: -38px 0;
+}
+.item3 > a:before {
+    background-position: 0 -38px;
+}
+.item4 > a:before {
+    background-position: -38px -38px;
+}
+.item5 > a:before {
+    background-position: -76px 0;
+}

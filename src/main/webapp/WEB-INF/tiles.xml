@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>  
+    <definition name="defaultTemplate" template="/WEB-INF/template/template.jsp">
+        <put-attribute name="header" value="/WEB-INF/template/header.jsp" />
+        <put-attribute name="menu" value="/WEB-INF/template/menu.jsp" />
+        <put-attribute name="footer" value="/WEB-INF/template/footer.jsp" />
+         <put-attribute name="barreRecherche" value="/WEB-INF/template/barreRecherche.jsp" />
+         <put-attribute name="barreRechercheHome" value="/WEB-INF/template/barreRechercheHome.jsp" />
+          <put-attribute name="bandeauPub" value="/WEB-INF/template/bandeauPub.jsp" />
+    </definition>
+   <definition name="homeTemplate" template="/WEB-INF/template/homeTemplate.jsp">
+        <put-attribute name="header" value="/WEB-INF/template/header.jsp" />
+        <put-attribute name="menu" value="/WEB-INF/template/menu.jsp" />
+        <put-attribute name="footer" value="/WEB-INF/template/footer.jsp" />
+         <put-attribute name="barreRecherche" value="/WEB-INF/template/barreRecherche.jsp" />
+             <put-attribute name="barreRechercheHome" value="/WEB-INF/template/barreRechercheHome.jsp" />
+    </definition>
+</tiles-definitions>
